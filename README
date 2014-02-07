@@ -2,4 +2,4 @@ This Chrome extension puts a resize button inside the Freshbooks Timer so you ca
 
 TO INSTALL: Download this (if it's zipped, unzip it) to a convenient location. Then in Chrome go to chrome://extensions/ and click Load Unpacked Extension. Choose the folder that contains these files.
 
-Written by Will Bradley, 2013, released to the public domain.
+Written by Will Bradley, 2013, released to the public domain (see the UNLICENSE file for more.)
