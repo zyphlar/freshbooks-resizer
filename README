@@ -1,5 +1,9 @@
 This Chrome extension puts a resize button inside the Freshbooks Timer so you can quickly resize the window and continue working with it in the corner of your screen.
 
+Pull requests accepted, if you feel like reporting a bug/issue/request please do so via Github and consider that I'm not making any money on this so don't get crazy ;)
+
 TO INSTALL: Download this (if it's zipped, unzip it) to a convenient location. Then in Chrome go to chrome://extensions/ and click Load Unpacked Extension (click Developer Mode if needed.) Choose the folder that contains these files.
+
+OR just download it from the Chrome Web Store: https://chrome.google.com/webstore/detail/timer-resizer-for-freshbo/dollgklkenojadekccfhjfaogalfmgem/
 
 Written by Will Bradley, 2013, released to the public domain (see the UNLICENSE file for more.)
