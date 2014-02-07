@@ -1,13 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "Freshbooks Timer Resizer",
-  "description": "This extension lets you easily minimize the Freshbooks Timesheet timer window.",
-  "version": "1.0",
+  "name": "Timer Resizer for FreshBooks",
+  "description": "This extension lets you easily minimize the FreshBooks Timesheet / Time Tracking timer window to give you more screen space while you work. (Not affiliated with or endorsed by FreshBooks in any way.)",
+  "version": "1.1",
+
+  "icons": { "48": "icon48.png",
+          "128": "icon128.png" },
 
   "content_scripts": [
     {
-      "matches": ["https://*.freshbooks.com/internal.php*"],
+      "matches": ["https://*.freshbooks.com/internal*"],
       "js": ["freshbooks-resizer.js","injected.js"]
     }
   ],
