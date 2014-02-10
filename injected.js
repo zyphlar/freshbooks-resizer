@@ -2,7 +2,7 @@
 window.normalWidth = window.outerWidth;
 window.normalHeight = window.outerHeight;
 
-window.minWidth = 250;
+window.minWidth = window.outerWidth;
 window.minHeight = 160;
 
 function freshbooksResize(){
